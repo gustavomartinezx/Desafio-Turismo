@@ -3,6 +3,73 @@
   color: #333333;
 }
 
+h1 {
+  margin-top: 4px;
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+
 h5 {
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: bold;
   color: #e1624f;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+
+img {
+  text-align: center;
+  border-radius: 24px;
+  margin: 44px auto;
+}
+
+ul li {
+  color: #0c51a7;
+  font-weight: bold;
+}
+
+#turism {
+  padding: 80px;
+}
+
+#metropole {
+  margin-top: 40px;
+  margin-bottom: 2px;
+}
+
+.multi:nth-child(1) {
+  color: #591b98;
+  font-weight: bold;
+}
+
+.multi:nth-child(2) {
+  font-weight: bold;
+  color: #e5245e;
+}
+
+.multi:nth-child(3) {
+  font-weight: bold;
+  color: #e95e10;
+}
+
+.paisagem {
+  height: 375px;
+  margin-top: 24px;
+  margin-bottom: 64px;
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  margin: 36px 0;
+  background-color: #d9d9d9;
+}
+
+.legenda {
+  text-align: center;
+}
+
+.titlelist {
+  font-weight: bold;
 }
